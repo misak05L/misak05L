@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like Homelabing, phyton, and single board computers mainly rassbarry pi's.
+I like Homelabing, phyton, and single board computers mainly rassbarry pi's and orange pi's.
 
 
 # 💻 Tech Stack:
